@@ -4,6 +4,7 @@ import './style.css';
 function Testimonials() {
   return (
     <div className="container my-4">
+      <h1 style={{ fontFamily: 'Protest Strike', color:'purple'}}>See what our clients want to say...</h1>
       {/* First Row */}
       <div className="row my-4">
         <div className="col-lg-4">
