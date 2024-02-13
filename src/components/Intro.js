@@ -27,7 +27,7 @@ function Intro() {
                             <br />
                             At the heart of our practice is a client-centric approach, where we prioritize understanding the unique goals and challenges of each client to deliver solutions that exceed expectations. Whether you are a startup, a growing enterprise, or an established organization, we are committed to being your trusted partner in financial management and compliance.
                             <br />
-                            CA Anik Gupta and Associates is more than just a Chartered Accountant firm — we are your strategic ally in achieving financial growth, stability, and prosperity. Partner with us, and let's embark on a journey of financial success together.
+                            CA Anik Gupta and Associates is more than just a Chartered Accountant firm — we are your strategic ally in achieving financial growth, stability, and prosperity. Partner with us, and let&apos;s embark on a journey of financial success together.
                         </p>
                     </div>
                     {/* Read More Button */}

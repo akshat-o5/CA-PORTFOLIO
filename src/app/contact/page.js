@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import ContactForm from '@/components/ContactForm';
 import Link from 'next/link';
 import './style.css'
@@ -10,10 +10,14 @@ function Contact() {
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [currentText, setCurrentText] = useState('');
-  const texts = ["Contact Us",
-  "Schedule an Appointment",
-  "Request a Service",
-  "Let's Collaborate together"];
+  
+  // Declare texts array inside useMemo to avoid recreation on every render
+  const texts = useMemo(() => [
+    "Contact Us",
+    "Schedule an Appointment",
+    "Request a Service",
+    "Let's Collaborate together"
+  ], []);
 
   useEffect(() => {
     const textAnimation = document.getElementById('jobTitle');
