@@ -10,7 +10,7 @@ function Testimonials() {
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
-                <p className="title">"Professional and precise, our accountant ensured every deduction counted, maximizing our returns with ease."
+                <p className="title">&ldquo;Professional and precise, our accountant ensured every deduction counted, maximizing our returns with ease.&ldquo;
 </p>
               </div>
               <div className="flip-card-back">
@@ -24,7 +24,7 @@ function Testimonials() {
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
-                <p className="title">"Exceptional service! Our accountant's insights helped streamline our finances, saving time and resources."</p>
+                <p className="title">&ldquo;Exceptional service! Our accountant&apos;s insights helped streamline our finances, saving time and resources.&ldquo;</p>
               </div>
               <div className="flip-card-back">
                 <p className="title">- Rohan Khanna
@@ -38,7 +38,7 @@ function Testimonials() {
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
-                <p className="title">"Knowledgeable and reliable, our accountant navigated complex tax laws effortlessly, ensuring compliance at every turn."
+                <p className="title">&ldquo;Knowledgeable and reliable, our accountant navigated complex tax laws effortlessly, ensuring compliance at every turn.&ldquo;
 </p>
               </div>
               <div className="flip-card-back">
@@ -57,7 +57,7 @@ function Testimonials() {
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
-                <p className="title">"Dedicated and detail-oriented, our accountant provided personalized solutions that optimized our financial strategies."</p>
+                <p className="title">&ldquo;Dedicated and detail-oriented, our accountant provided personalized solutions that optimized our financial strategies.&ldquo;</p>
               </div>
               <div className="flip-card-back">
                 <p className="title">- Vikram Singhania</p>
@@ -70,7 +70,7 @@ function Testimonials() {
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
-                <p className="title">"Trustworthy and efficient, our accountant's proactive approach ensured our financial records were always in order."</p>
+                <p className="title">&ldquo;Trustworthy and efficient, our accountant&apos;s proactive approach ensured our financial records were always in order.&ldquo;</p>
               </div>
               <div className="flip-card-back">
                 <p className="title">- Aarav Patel</p>
@@ -83,7 +83,7 @@ function Testimonials() {
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
-                <p className="title">"Responsive and insightful, our accountant's guidance empowered us to make informed financial decisions confidently."</p>
+                <p className="title">&ldquo;Responsive and insightful, our accountant&apos;s guidance empowered us to make informed financial decisions confidently.&ldquo;</p>
               </div>
               <div className="flip-card-back">
                 <p className="title">- Niharika Gupta</p>
